@@ -1,0 +1,6 @@
+﻿  Decrypt.cpp
+C:\Users\gkras\source\repos\Lesson\Lesson\Decrypt.cpp(19,14): warning C4129: c: неизвестная escape-последовательность
+  Encrypt.cpp
+C:\Users\gkras\source\repos\Lesson\Lesson\Encrypt.cpp(23,21): warning C4129: c: неизвестная escape-последовательность
+  Создание кода...
+  Lesson.vcxproj -> C:\Users\gkras\source\repos\Lesson\x64\Debug\Lesson.exe
